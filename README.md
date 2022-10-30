@@ -25,5 +25,5 @@ What else makes me fun?
 ![PYTHON](https://img.shields.io/badge/Python-royalblue.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-B803FF.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
