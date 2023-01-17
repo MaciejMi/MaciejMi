@@ -3,7 +3,7 @@ I am Maciej - Front-end Developer <br>
 What I am currently devoting to?
 <ul>
   <li>
-    I'm actually learning Node.js and React.js.
+    I'm currently learning Node.js and React.js.
   </li>
   <li>
 I create websites for my clients.
