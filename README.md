@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Maciej - Front-end Developer <br>
+I am Maciej - Full-stack Developer <br>
 What I am currently devoting to?
 <ul>
   <li>
