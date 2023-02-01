@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Maciej - Full-stack Developer <br>
+I am Maciej - Fullstack Developer <br>
 What I am currently devoting to?
 <ul>
   <li>
@@ -13,7 +13,7 @@ What else makes me fun?
 <ul>
   <li>History of Poland and the world.</li>
   <li>World geography.</li>
-  <li>Football and ski jumping.</li>
+  <li>Football and volleyball.</li>
 </ul>
 
 
