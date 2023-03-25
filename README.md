@@ -9,7 +9,7 @@ What I am currently devoting to?
 I create websites for my clients.
   </li>
 </ul>
-What else makes me fun?
+What am I interested in?
 <ul>
   <li>History of Poland and the world.</li>
   <li>World geography.</li>
