@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Maciej - Fullstack Developer <br>
-What I am currently devoting to?
+What I am currently devoting myself to?
 <ul>
   <li>
     I'm currently learning Node.js and React.js.
