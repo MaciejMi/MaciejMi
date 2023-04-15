@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Maciej - Fullstack Developer <br>
+I am Maciej - Future Fullstack Developer <br>
 What I am currently devoting myself to?
 <ul>
   <li>
