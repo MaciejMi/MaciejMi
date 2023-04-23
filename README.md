@@ -16,7 +16,7 @@ What am I interested in?
   <li>Football and volleyball.</li>
 </ul>
 
-
+## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)&nbsp;
@@ -27,3 +27,11 @@ What am I interested in?
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-B803FF.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
+
+## GitHub Analytics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaciejMi&show_icons=true&theme=dark)
+
+
+
+
