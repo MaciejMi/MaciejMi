@@ -32,6 +32,7 @@ What am I interested in?
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaciejMi&show_icons=true&theme=dark)
 
-
-
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=MaciejMi&label=Profile%20views&color=0e75b6&style=flat" alt="MaciejMi"
+</p>
 
