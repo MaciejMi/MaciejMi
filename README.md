@@ -3,7 +3,7 @@ I am Maciej - Future Fullstack Developer <br>
 What I am currently devoting myself to?
 <ul>
   <li>
-    I'm currently learning Node.js and React.js.
+    I'm currently learning JavaScript, Node.js and React.js.
   </li>
   <li>
 I create websites for my clients.
