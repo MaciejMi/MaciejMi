@@ -11,6 +11,7 @@ I create websites for my clients.
 </ul>
 What am I interested in?
 <ul>
+  <li>Programming.</li>
   <li>History of Poland and the world.</li>
   <li>World geography.</li>
   <li>Football and volleyball.</li>
