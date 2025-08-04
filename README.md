@@ -15,33 +15,39 @@ I learn by building — from small tools to real applications used by real peopl
 
 ### ⚒️ Tech Stack
 
-- **Languages**: JavaScript, PHP, Python, Java, C++
-- **Frontend**: HTML, CSS, Sass, React
-- **Backend**: Node.js, Express.js, PHP
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, VS Code, Figma, Adobe Photoshop, Adobe Premiere Pro
-- **Learning**: TypeScript, Next.js
-
----
-
-### 🎯 Goals
-
-- Get accepted into Computer Science at AGH University
-- Land my first job or internship as a developer
-- Expand my portfolio with meaningful, fullstack projects
-- Stay consistent and enjoy the process
+**Languages:** JavaScript, PHP, Python, Java, C++  
+**Frontend:** HTML, CSS, Sass, React  
+**Backend:** Node.js, Express, PHP  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code, Figma, Photoshop, Premiere Pro  
+**Learning:** TypeScript, Next.js
 
 ---
 
 ### 📫 Contact
 
-I'm open to collaboration, projects, feedback or just a tech chat.  
-- **Discord**: Kserix  
-- **Email**: maciej.michalczyk.dev@gmail.com  
-- **LinkedIn**: [Maciej Michalczyk](https://www.linkedin.com/in/maciej-michalczyk/)  
-- **Website**: [michalczyk.netlify.app](https://michalczyk.netlify.app)
+Open to collaboration, feedback or a tech chat.  
+**Discord:** Kserix  
+**Email:** maciej.michalczyk.dev@gmail.com  
+**LinkedIn:** [Maciej Michalczyk](https://www.linkedin.com/in/maciej-michalczyk/)  
+**Website:** [michalczyk.netlify.app](https://michalczyk.netlify.app)
 
 ---
+
+<details>
+  <summary>🎯 Goals</summary>
+
+  <br/>
+
+  - Get accepted into Computer Science at AGH University  
+  - Land my first job or internship as a developer  
+  - Expand my portfolio with meaningful, fullstack projects  
+  - Stay consistent and enjoy the process
+
+</details>
+
+---
+
 
 <details>
   <summary>📊 Click to show GitHub Stats</summary>
