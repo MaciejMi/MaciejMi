@@ -26,8 +26,9 @@ I learn by building — from small tools to real applications used by real peopl
 
 ### 🎯 Goals
 
-- Land my first job or internship as a developer  
-- Expand my portfolio with meaningful, fullstack projects  
+- Get accepted into Computer Science at AGH University
+- Land my first job or internship as a developer
+- Expand my portfolio with meaningful, fullstack projects
 - Stay consistent and enjoy the process
 
 ---
