@@ -58,11 +58,11 @@ Open to collaboration, feedback or a tech chat.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaciejMi&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaciejMi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejMi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaciejMi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 </details>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaciejMi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
