@@ -35,7 +35,7 @@ Open to collaboration, feedback or a tech chat.
 ---
 
 <details>
-  <summary>🎯 Goals</summary>
+  <summary>🎯 Click to show my goals</summary>
 
   <br/>
 
